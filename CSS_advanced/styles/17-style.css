@@ -408,6 +408,10 @@ a:active {
     font-weight: var(--font-weight-bold);
 }
 
+.footer {
+    padding: var(--footer-padding);
+}
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
@@ -439,6 +443,3 @@ a:active {
     --footer-padding: 5rem 0 1rem;
 }
 
-footer {
-    padding: var(--footer-padding);
-}
